@@ -1,0 +1,17 @@
+#ignore build dirs
+build
+dist
+rpm-build
+MANIFEST
+#ignore sqlite files
+*.sqlite
+#ignore editor temp files
+*~
+#ignore compiled python files
+*.pyc
+#ignore logs
+*.log
+#ignore backups
+*.bak
+#ignore vi swaps
+*.swp

@@ -1,0 +1,17 @@
+Oto is a project which melds Selenium, dogtail, and python-nose together
+to provide a Pythonic framework for establishing functional tests
+suitable for testing large web and GTK client applications.
+
+If you're interested in learning more, the base class (from which
+all constituent test classes are defined) can be found within
+oto/base.py.
+
+All bugs, comments, concerns, rants, raves, expressions of love,
+expressions of hate, and James Joyce-ian freeform expressions
+should be directed towards me, the author of this package:
+
+Steve Salevan <steve.salevan@gmail.com>
+
+I hope that these tools spirit you swiftly towards a happier place
+in your testing trevails, and if I can be of any assistance, feel
+free to drop me an e-mail.  :}
